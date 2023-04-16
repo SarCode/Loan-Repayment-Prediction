@@ -1,6 +1,18 @@
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<div align="center">
+  <a href="https://github.com/SarCode/Loan-Repayment-Prediction">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Loan Buster</h3>
+
+</div>
+
 # Loan Repayment Prediction
 
-This project aims to predict whether a customer will repay their loan or not based on their financial data. It uses machine learning algorithms to analyze customer data and predict the likelihood of loan repayment.
+Predict whether a customer will repay their loan or not based on their financial data. It uses machine learning algorithms to analyze customer data and predict the likelihood of loan repayment.
 
 ## Getting Started
 
@@ -14,9 +26,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 Clone the repository to your local machine:
-
-`git clone https://github.com/SarCode/Loan-Repayment-Prediction.git`
-
+```sh
+git clone https://github.com/SarCode/Loan-Repayment-Prediction.git
+```
 
 ## Usage
 
@@ -36,11 +48,13 @@ If you'd like to contribute to this project, please follow these guidelines:
 4. Push your changes to your fork.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
 - The data used in this project is from the LendingClub dataset on Kaggle: https://www.kaggle.com/wendykan/lending-club-loan-data
 - Inspiration for this project came from the Udacity Machine Learning Engineer Nanodegree program.
+
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/sarthak-agarwal-dell/
