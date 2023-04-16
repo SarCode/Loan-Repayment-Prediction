@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/SarCode/Loan-Repayment-Prediction">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Loan Buster</h3>
