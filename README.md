@@ -2,12 +2,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
-  <a href="https://github.com/SarCode/Loan-Repayment-Prediction">
-    <img src="images/logo.png" alt="Logo">
-  </a>
-
-<h3 align="center">Loan Buster</h3>
-
+<img src="images/logo.png" alt="Logo">
 </div>
 
 # Loan Repayment Prediction
